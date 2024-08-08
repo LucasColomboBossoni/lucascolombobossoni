@@ -13,7 +13,7 @@
 
 ## About me:
 - 🔭 I'm looking for a software development internship
-- 🌱 I'm currently studying Java every day
+- 🌱 I'm currently studying Java and English every day
 
 ## Socials:
 
