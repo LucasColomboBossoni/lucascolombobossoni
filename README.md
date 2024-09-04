@@ -1,8 +1,10 @@
 ## Hi, i'm Lucas Colombo Back-End Developer 👋
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascolombobossoni&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=LucasColomboBossoni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-# Tech Stack:
+## Tech Stack:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
